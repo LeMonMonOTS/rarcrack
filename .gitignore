@@ -19,5 +19,6 @@
 
 # Outputs
 *.xml
-rarcrack
+build/
+.vscode/
 

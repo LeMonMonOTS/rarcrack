@@ -1,0 +1,11 @@
+{
+  "name": "rarcrack",
+  "version": "1.0.0",
+  "dependencies": [
+        {
+            "name": "libxml2",
+            "platform": "linux"
+        }
+    ],
+    "builtin-baseline": "68d349964cb4e8da561fd849d9491e6ba11c5681"
+}
